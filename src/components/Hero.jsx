@@ -8,7 +8,7 @@ import InstagramIcon from "@mui/icons-material/Instagram";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import { TypographyCss } from "./HeroCss";
-import women from "../assets/women.png";
+import women from "../assets/pic.jpg";
 
 function Hero() {
   return (
@@ -97,10 +97,10 @@ function Hero() {
                     <img 
                      src={women}
                      style={{
-                       height: "350px",
-                       width: "350px",
+                       height: "380px",
+                       width: "380px",
                        objectFit: "cover",
-                       objectPosition: "10% 45%",
+                       objectPosition: "43% 90%",
                        border: "none",
                        borderRadius: "50%",
                      }}
