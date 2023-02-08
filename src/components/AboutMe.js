@@ -4,10 +4,10 @@ import boy from "../assets/boy.png";
 import DownloadIcon from "@mui/icons-material/Download";
 
 function AboutMe() {
-    const skills = ["AWS", "React.js", "Node.js", "Html", "CSS", "JavaSvript"];
+    const skills = ["React.js", "Node.js", "Html", "CSS", "JavaSvript"];
     return (
       <>
-        <Box sx={{ mt: 10 }}>
+        <Box sx={{ height: "90vh", display: "flex", alignItems: "center" }}>
           <Container>
             <Grid
               container
@@ -22,7 +22,7 @@ function AboutMe() {
                   About Me
                 </Typography>
                 <Typography variant="subtitle1" sx={{ mb: 3 }}>
-                  Hello, I’m a Patrick, web-developer based on Paris. I have rich
+                  Hello, I’m Ishika Kashyap, web-developer based on India. I have good
                   experience in web site design & building and customization. Also
                   I am good at
                 </Typography>

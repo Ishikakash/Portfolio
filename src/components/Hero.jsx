@@ -56,7 +56,7 @@ function Hero() {
               </Typography>
               <Typography variant="subtitle1" sx={TypographyCss}>
                 <LocationOnIcon sx={{ mr: 1 }} />
-                37, Pollsatnd, New York, United State
+                Lovely Professional University, Jalandhar, Punjab
               </Typography>
               </Box>
               <Box
@@ -90,7 +90,8 @@ function Hero() {
                     displlay: "flex",
                     justifyContent: "center",
                     alignItems: "center",
-                    borderRadius: "50%"
+                    borderRadius: "50%",
+                    mt: 8
                   }}
                   >
                     <img 
@@ -99,7 +100,7 @@ function Hero() {
                        height: "350px",
                        width: "350px",
                        objectFit: "cover",
-                       objectPosition: "50% 0%",
+                       objectPosition: "10% 45%",
                        border: "none",
                        borderRadius: "50%",
                      }}
