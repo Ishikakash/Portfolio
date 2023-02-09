@@ -30,9 +30,8 @@ function MySkills() {
                   UI Design
                 </Typography>
                 <Typography variant="subtitle2">
-                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
-                  diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-                  aliquam erat volutpat.
+                 User interface(UI) design is the process designers use to build interfaces in software
+                 or computerized devices, focusing on looks or style.
                 </Typography>
               </Box>
             </Grid>
@@ -53,9 +52,8 @@ function MySkills() {
                   Web Development
                 </Typography>
                 <Typography variant="subtitle2">
-                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
-                  diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-                  aliquam erat volutpat.
+                  Web development refers to the creating, building, and maintaining of websites. 
+                  It includes aspects such as web design, web programming, and database management.
                 </Typography>
               </Box>
             </Grid>
@@ -76,9 +74,8 @@ function MySkills() {
                   App Development
                 </Typography>
                 <Typography variant="subtitle2">
-                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
-                  diam nonummy nibh euismod tincidunt ut laoreet dolore magna
-                  aliquam erat volutpat.
+                  App development is the process in which developers create an application to be used on 
+                  smartphones, tablets and other mobile devices.
                 </Typography>
               </Box>
             </Grid>
