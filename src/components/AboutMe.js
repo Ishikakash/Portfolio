@@ -4,7 +4,7 @@ import boy from "../assets/boy.png";
 import DownloadIcon from "@mui/icons-material/Download";
 
 function AboutMe() {
-    const skills = ["React.js", "Node.js", "Html", "CSS", "JavaSvript"];
+    const skills = ["React.js", "Html", "CSS", "JavaSvript", "C++", "DSA"];
     return (
       <>
         <Box sx={{ height: "90vh", display: "flex", alignItems: "center" }}>
