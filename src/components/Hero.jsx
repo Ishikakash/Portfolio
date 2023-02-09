@@ -48,7 +48,7 @@ function Hero() {
                 >
                 <Typography variant="subtitle1" sx={TypographyCss}>
                 <EmailIcon sx={{ mr: 1 }} />
-                getemail@email.com
+                01ishikaa@gmail.com
               </Typography>
               <Typography variant="subtitle1" sx={TypographyCss}>
                 <LocalPhoneIcon sx={{ mr: 1 }} />
