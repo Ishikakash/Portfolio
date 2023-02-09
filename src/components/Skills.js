@@ -34,11 +34,11 @@ function Skills() {
   const techSkills = [
     {
       title: "React",
-      percentage: 100,
+      percentage: 97,
     },
     {
       title: "Node",
-      percentage: 95,
+      percentage: 91,
     },
     {
       title: "MaterialUI",
@@ -89,10 +89,10 @@ function Skills() {
                 Professional Skills
               </Typography>
               <Box sx={{ display: "flex", flexWrap: "wrap" }}>
-                <CircularProgressWithLabel value={75} />
-                <CircularProgressWithLabel value={50} />
-                <CircularProgressWithLabel value={50} />
-                <CircularProgressWithLabel value={50} />
+                <CircularProgressWithLabel value={85} />
+                <CircularProgressWithLabel value={95} />
+                <CircularProgressWithLabel value={90} />
+                <CircularProgressWithLabel value={80} />
               </Box>
             </Grid>
           </Grid>
